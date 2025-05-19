@@ -1,1 +1,2 @@
-pte/nemo_decoder_coreml.pte filter=lfs diff=lfs merge=lfs -text
+bin/nemo_decoder_coreml.pte filter=lfs diff=lfs merge=lfs -text
+bin/nemo_decoder.pt2 filter=lfs diff=lfs merge=lfs -text
